@@ -1,0 +1,9 @@
+body{
+    background-image: url("https://imgcdn.stablediffusionweb.com/2024/9/24/109a004b-5ee2-4b80-bb45-4278098400f1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar{
+    background: transparent;
+}
